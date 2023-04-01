@@ -1,11 +1,10 @@
 import React from 'react';
-
 import './Header.css';
-import OlxLogo from '../assets/OlxLogo';
-import Search from '../assets/Search';
-import Arrow from '../assets/Arrow';
-import SellButton from '../assets/SellButton';
-import SellButtonPlus from '../assets/SellButtonPlus';
+import OlxLogo from '../../assets/OlxLogo';
+import Search from '../../assets/Search';
+import Arrow from '../../assets/Arrow';
+import SellButton from '../../assets/SellButton';
+import SellButtonPlus from '../../assets/SellButtonPlus';
 function Header() {
   return (
     <div className="headerParentDiv">
