@@ -19,15 +19,15 @@ function Posts() {
               <Heart></Heart>
             </div>
             <div className="image">
-              <img src="../../../Images/R15V3.jpg" alt="" />
+              <img src="../../../../public/Images/R15V3.jpg" alt="" />
             </div>
             <div className="content">
-              <p className="rate">&#x20B9; 250000</p>
-              <span className="kilometer">Two Wheeler</span>
-              <p className="name"> YAMAHA R15V3</p>
+              <p className="rate">&#x20B9; 150000</p>
+              <span className="kilometer">Smart Phone</span>
+              <p className="name"> Iphone 14 Pro</p>
             </div>
             <div className="date">
-              <span>Tue May 04 2021</span>
+              <span>Tue Jan 24 2023</span>
             </div>
           </div>
         </div>
@@ -42,15 +42,15 @@ function Posts() {
               <Heart></Heart>
             </div>
             <div className="image">
-              <img src="../../../Images/R15V3.jpg" alt="" />
+              <img src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSsco7Ms_jmHc47D_VZ2iYvMmcmIZbru6O4_bwtrd7hXVNVQlxxtzs2xQnY4iCIdQPh00vUzWnSE-EXUEvQ8xjRDEQEe7yJ" alt="Image not available" />
             </div>
             <div className="content">
-              <p className="rate">&#x20B9; 250000</p>
-              <span className="kilometer">Two Wheeler</span>
-              <p className="name"> YAMAHA R15V3</p>
+              <p className="rate">&#x20B9; 150000</p>
+              <span className="kilometer">Smart Phone</span>
+              <p className="name">Iphone 14 Pro</p>
             </div>
             <div className="date">
-              <span>10/5/2021</span>
+              <span>24/01/2023</span>
             </div>
           </div>
         </div>
